@@ -12,6 +12,8 @@ Use "git status" and "git diff --cached".
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+The time when you want to make experimental or unofficial changes.
+The other branches will be separate from the master branch.
 
 How do the diagrams help you visualize the branch structure?
 
