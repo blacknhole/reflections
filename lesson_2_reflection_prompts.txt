@@ -20,6 +20,8 @@ It makes the relationship of parent and reachablity clearly.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Making a new commit that contains all changes of the two branches.
+Because it shows the combination of two branches clearly.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
