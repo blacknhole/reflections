@@ -16,6 +16,7 @@ The time when you want to make experimental or unofficial changes.
 The other branches will be separate from the master branch.
 
 How do the diagrams help you visualize the branch structure?
+It makes the relationship of parent and reachablity clearly.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
