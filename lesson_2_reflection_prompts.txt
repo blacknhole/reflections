@@ -25,3 +25,5 @@ Because it shows the combination of two branches clearly.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros: convenient and quick
+cons: there may be some conflicts that Git's automatic merging can't deal with.
