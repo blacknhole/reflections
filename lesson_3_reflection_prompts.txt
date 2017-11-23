@@ -4,3 +4,8 @@ The time I want to show my repository publicly or collaborate with others.
 Why might you want to always pull changes manually rather than having Git automatically
 stay up-to-date with your remote repository?
 Maybe because manual work can be more flexible.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: copy repository from GitHub to GitHub
+clones: copy repository from GitHub or local computers to local computer
+branches: a bundle of commits that are different from the commits of the master 
