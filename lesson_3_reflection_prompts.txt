@@ -8,4 +8,7 @@ Maybe because manual work can be more flexible.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks: copy repository from GitHub to GitHub
 clones: copy repository from GitHub or local computers to local computer
-branches: a bundle of commits that are different from the commits of the master 
+branches: a bundle of commits that are different from the commits of the master
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It will become easy to synchronize the local repository with the remote repository.(need to think deeply)
