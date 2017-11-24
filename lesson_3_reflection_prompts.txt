@@ -15,4 +15,10 @@ It will become easy to synchronize the local repository with the remote reposito
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Manually combine the codes of collaborators. It's easier to combine the codes that have less changes.
-And it's harder to combine the codes that have many changes or of many collaborators. 
+And it's harder to combine the codes that have many changes or of many collaborators.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+The time when I want to do some experimental works or make a pull request on GitHub.
+in separate branch: can do more things without breaking the official codes of the master branch, clearly
+directly in master: conveniently, more effectively
