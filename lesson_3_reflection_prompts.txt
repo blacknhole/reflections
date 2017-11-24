@@ -12,3 +12,7 @@ branches: a bundle of commits that are different from the commits of the master
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It will become easy to synchronize the local repository with the remote repository.(need to think deeply)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Manually combine the codes of collaborators. It's easier to combine the codes that have less changes.
+And it's harder to combine the codes that have many changes or of many collaborators. 
